@@ -64,15 +64,3 @@ Input Wafer Image → CNN Model → Prediction → GradCAM → Analytics Dashboa
 - Matplotlib
 
 ---
-
-## 🚀 Demo
-
-Live Demo Link: (Paste your Gradio link here)
-
----
-
-## 📦 Installation
-
-```bash
-pip install -r requirements.txt
-python app/app.py
