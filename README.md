@@ -62,5 +62,6 @@ Input Wafer Image → CNN Model → Prediction → GradCAM → Analytics Dashboa
 - Gradio
 - Pandas
 - Matplotlib
+- ReportLab
 
 ---
