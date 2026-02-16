@@ -1,7 +1,8 @@
 tensorflow
-gradio
+gradio==4.44.1
+opencv-python-headless
 numpy
-opencv-python
 pillow
 pandas
 matplotlib
+reportlab
